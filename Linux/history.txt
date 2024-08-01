@@ -1,0 +1,140 @@
+Кузнецова Анна Владимировна, 7753277av@gmail.com 23.07.2024
+
+anna@anna-VirtualBox:~/control_work$ history
+
+    1  sudo apt --help
+
+    2  sudo apt update
+
+    3  sudo apt list --upgradable
+
+    4  sudo ubuntu --help
+
+    5  mkdir final_work
+
+    6  cd final_work/
+
+    7  cat > Pats
+
+    8  cat > Pack animals
+
+    9  cat > Pack_animals
+
+   10  cat Pats Pack_animals > Animals
+
+   11  cat Animals 
+
+   12  sudo rm Pats
+
+   13  cat Pats
+
+   14  sudo rm Pack_Animals
+
+   15  cd
+
+   16  sudo rmdir final_work/
+
+   17  ls
+
+   18  clear
+
+   19  mkdir control_work
+
+   20  cd control_work/
+
+   21  cat > Pats
+
+   22  cat > Pack_animals
+
+   23  cat Pats Pack_animals > Animals
+
+   24  cat Animals
+
+   25  mv Animals Human Friends
+
+   26  mv Animals Human_Friends
+
+   27  ls
+
+   28  mkdir Task2
+
+   29  mv Human_Friends Task2/
+
+   30  ls
+
+   31  cd Task2/
+
+   32  ls
+
+   33  cd ..
+
+   34  sudo apt update
+
+   35  clear
+
+   36  sudo apt install mysql-server
+
+   37  sudo service mysql status
+
+   38  clear
+
+   39  ls
+
+   40  cd control_work/
+
+   41  sudo apt download zip
+
+   42  ls
+
+   43  sudo dpkg -i zip_3.0-12build2_amd64.deb
+
+   44  sudo dpkg -r zip_3.0-12build2_amd64.deb
+
+   45  sudo dpkg -r zip
+
+   46  ls
+
+   47  sudo dpkg -r amd64.deb
+
+   48  sudo dpkg -remove zip_3.0-12build2_amd64.deb
+
+   49  apt-get remove zip_3.0-12build2_amd64.deb
+
+   50  ls
+
+   51  sudo apt-get remove zip_3.0-12build2_amd64.deb
+
+   52  clear
+
+   53  ls
+
+   54  sudo dpkg -i mysql-apt-config_0.8.24-1_all.deb
+
+   55  sudo wget https://dev.mysql.com/get/mysql-apt-config_0.8.24-1_all.deb
+
+   56  sudo dpkg -i mysql-apt-config_0.8.24-1_all.deb
+
+   57  sudo dpkg -r mysql-server-8.0
+
+   58  clear
+
+   59  sudo dpkg -i vivaldi-stable_3.8.2259.42-1_amd64.deb
+
+   60  ls
+
+   61  history
+
+   62  ls
+
+   63  ls control_work/
+
+   64  sudo dpkg -l zip
+
+   65  ls
+
+   66  cd control_work/
+
+   67  ls
+
+   68  history
+
